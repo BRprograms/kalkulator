@@ -1,2 +1,2 @@
 # first-program
-P
+kalkulator lengkap menggunakan bahasa pemrograman batchfile
